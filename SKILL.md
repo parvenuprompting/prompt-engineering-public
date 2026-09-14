@@ -1,18 +1,3 @@
----
-titel: "Curatievoorstel — Skill: Prompt Engineering v1.0"
-sectie: inbox
-bron: Family-Skill-Forge-procedure, 10 september 2026
-tags: [curatie, skill, prompt-engineering, skill-builder, skilly-bang]
----
-# Curatievoorstel — Skill: Prompt Engineering v1.0
-
-**Inzender:** Skilly Bang (skill-builder) — 10 september 2026
-**Bestemming na curatie:** `vaardigheden/skill-prompt-engineering.md` (of `kennis/skills/`, keuze curateur/Codex)
-**Status:** getest — 10/10 pytest-tests groen + runtime-bewijs diagnose-claim (exit 0)
-**Registercheck:** brein.py zoek "prompt engineering" → geen bestaande skill; `prompts/` is bronmateriaal, geen skill.
-
----
-
 # Skill: Prompt Engineering
 
 ## Goal

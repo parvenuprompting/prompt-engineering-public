@@ -1,4 +1,4 @@
-[![Tests](https://github.com/parvenuprompting/prompt-engineering-public/actions/workflows/tests.yml/badge.svg)](https://github.com/parvenuprompting/prompt-engineering-public/actions/workflows/tests.yml)
+[![Tests](https://github.com/parvenuprompting/prompt-engineering-public/actions/workflows/tests.yml/badge.svg?branch=master)](https://github.com/parvenuprompting/prompt-engineering-public/actions/workflows/tests.yml)
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 ![Tests](https://img.shields.io/badge/tests-14%20passed-brightgreen)
